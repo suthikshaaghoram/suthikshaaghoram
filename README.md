@@ -94,6 +94,10 @@ I actively participate in hackathons, internships, and real-world projects to co
 ---
 ---
 ---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=suthikshaaghoram&theme=radical&hide_border=true" />
+</p>
+
 
 ## 📊 GitHub Stats (Last 12 Months)
 
