@@ -91,9 +91,12 @@ I actively participate in hackathons, internships, and real-world projects to co
 ✨ *Always learning. Always building.*
 ---
 
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/suthikshaaghoram/suthikshaaghoram/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
