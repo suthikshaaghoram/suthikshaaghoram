@@ -92,6 +92,17 @@ I actively participate in hackathons, internships, and real-world projects to co
 ---
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=suthikshaaghoram&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"
+    height="165"
+  />
+</p>
+
 
 ## 🐍 Contribution Snake
 
